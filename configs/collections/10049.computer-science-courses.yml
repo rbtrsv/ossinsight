@@ -1,4 +1,4 @@
-id: 10049
+id: 10050
 name: Computer Science Courses
 items:
   - rcore-os/rCore
@@ -26,3 +26,4 @@ items:
   - yandexdataschool/nlp_course
   - microsoft/c9-python-getting-started
   - mit-pdos/xv6-public
+  - microsoft/ML-For-Beginners
